@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Booking-Room</string>
+
+    <string-array name="khu_array">
+        <item>Khu A </item>
+        <item>Khu B </item>
+        <item>Khu D</item>
+        <item>Khu S</item>
+    </string-array>
+</resources>
